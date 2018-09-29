@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server1/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server3/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-server/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-server1/pom.xml" />
+        <option value="$PROJECT_DIR$/customer-server/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-service/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-service1/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-server3/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-server4/pom.xml" />
+        <option value="$PROJECT_DIR$/customer-service2/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-service5/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-service2/pom.xml" />
+        <option value="$PROJECT_DIR$/customerhystrix-services/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-services/pom.xml" />
+        <option value="$PROJECT_DIR$/provide-Servicedemo/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-service6/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
